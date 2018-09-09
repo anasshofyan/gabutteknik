@@ -326,7 +326,7 @@
 <!-- MEDIA PARTNERS -->
 <section>
 	<div class="container-fluid">
-		<div class="container mt-5">
+		<div class="container p-5">
 			<div class="row">
 				<!-- title -->
 				<div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
@@ -334,11 +334,29 @@
 				</div>
 				<!-- title -->
 			</div>
-			<div class="row">
-				<div class="col-12 col-md-4">
-					
+			<!-- row logo partner -->
+			<div class="row mb-5 justify-content-center text-center">
+				<!-- logo ristekdikti -->
+				<div class="col-12 col-md-4 mb-5 mt-5">
+					<div>
+						<img src="asset/img/logo_ristekdikti.png" width="200px" alt="">
+					</div>
+				</div>
+				<!-- end logo ristekdikti -->
+				<!-- logo pens -->
+				<div class="col-12 col-md-4 mb-5 mt-5">
+					<div>
+						<img src="asset/img/logo_pens.png" width="150px" alt="">
+					</div>
+				</div>
+				<!-- end logo pens -->
+				<div class="col-12 col-md-4 mb-5 mt-5">
+					<div>
+						<img src="asset/img/logo_antek.png" width="110px" alt="">
+					</div>
 				</div>
 			</div>
+			<!-- end Logo partner -->
 		</div>
 	</div>
 </section>
@@ -391,13 +409,13 @@
 				</div>
 				<div class="col-md-4 mt-2">
 					<small class="text-white">
-					Copyright © 2018 <a href="#" class="text-gr">TutorTeknik™</a> All rights reserved.</small>	
+						Copyright © 2018 <a href="#" class="text-gr">TutorTeknik™</a> All rights reserved.</small>	
+					</div>
 				</div>
 			</div>
-		</div>
-	</div>			
-	<!-- end copyright -->
-</section>
-<!-- END FOOTER -->
+		</div>			
+		<!-- end copyright -->
+	</section>
+	<!-- END FOOTER -->
 </body>
 </html>
